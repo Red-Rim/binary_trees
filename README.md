@@ -2,7 +2,7 @@
 ======================
 
 - By Me:
-    Salma Ouakhir
+   - Salma Ouakhir
 
 Resources
 ---------
