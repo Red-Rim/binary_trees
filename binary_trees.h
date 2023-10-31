@@ -26,3 +26,5 @@ typedef struct binary_tree_s heap_t;
 
 /* functions_Prototypes */
 binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);
+
+#endif
