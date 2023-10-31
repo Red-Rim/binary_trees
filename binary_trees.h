@@ -2,6 +2,8 @@
 #define BINARY_TREES_H
 
 #include <stddef.h>
+#include <stddef.h>
+#include <limits.h>
 #include <stdlib.h>
 
 /**
